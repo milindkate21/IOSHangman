@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF20DDCA-AAC3-4C9C-94F0-A5C70019E49E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAB2BA13-75D9-4486-9BDC-18F1F8515D0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangmanGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "305F23EF-34FF-430D-9DC3-404DBA703324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangmanGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - 7084a36e10c21927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.hangmanImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - 762a34e1be0c7513"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.hangmanImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - 9457eef6070dbc20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.hangmanImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - fac3b0256953e0aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.hangmanImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - 9e3818e9497449ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HangmanGame.ViewController"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "305F23EF-34FF-430D-9DC3-404DBA703324 - d61e876882f9f457"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangmanGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HangmanGame.ViewController&gt;"
+                  moduleName = "HangmanGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harsh/MAP/Sem-2/ios_app_development-6125/projects/HangmanGame/HangmanGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
